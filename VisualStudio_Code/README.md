@@ -12,11 +12,13 @@ They help a lot to code, manage repo, interact with Azure, develop PowerShell an
 2. Launch a cmd/Command Prompt
 
    Copy/Paste the commands that installs the extensions you want to get in your context, from the file named `VSCode-Extensions.cmd`.
+
    It is not formatted as a batch/bat script that can be run directly. I recommend starting with Copy/Paste to see how it gradually changes your Visual Studio Code environment.
 
 3. Edit Visual Studio Code user' settings
 
    VS Code stores your user settings by default in this location: `C:\Users\<your user name>\AppData\Roaming\Code\User\settings.json`.
+
    Open this file and edit it adding the settings from the `VSCode-settings.json` file.
    The VS Code settings UI can also be used `File > Preferences > Settings`.
 
@@ -28,4 +30,4 @@ They help a lot to code, manage repo, interact with Azure, develop PowerShell an
 
    Once downloaded, double-click on it, it opens the Font display windows, Font name being "Fira Mono". Click on "Install".
 
-   I also added the file in this directory.
+   I also added the TTF file in this directory.
