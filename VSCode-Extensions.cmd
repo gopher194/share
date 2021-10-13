@@ -1,4 +1,4 @@
-# From CMD run the following
+# From CMD (Command Prompt, located here: %windir%\system32\cmd.exe) run the following:
 
 # Get indentation rainbow:
 code --install-extension oderwat.indent-rainbow
@@ -16,6 +16,7 @@ code --install-extension eamodio.gitlens
 # Atom One Dark Theme
 code --install-extension akamud.vscode-theme-onedark
 # Usually used with Fira Font: https://github.com/mozilla/Fira
+# Open and Install Fira Mono from the TTF folder in Fira repo
 # Add this to the settings.json:
 #  "editor.fontFamily": "'Fira Mono', Menlo, Monaco, 'Courier New', monospace"
 
@@ -62,7 +63,6 @@ code --install-extension streetsidesoftware.code-spell-checker
 
 
 #####################################  End of Installed  #####################################
-
 # JavaScript formatter
 #code --install-extension dai-shi.vscode-es-beautifier
 
@@ -86,7 +86,6 @@ code --install-extension streetsidesoftware.code-spell-checker
 # AWS CloudFormation snippet
 #code --install-extension dsteenman.cloudformation-yaml-snippets
 
-
 ###  Themes  ###
 # Community Material Theme
 #code --install-extension Equinusocio.vsc-community-material-theme
@@ -105,7 +104,6 @@ code --install-extension streetsidesoftware.code-spell-checker
 #code --install-extension zhuangtongfa.material-theme
 #code --install-extension whizkydee.material-palenight-theme
 ###  End of Themes  ###
-
 
 # Ionic Snippets for VS Code
 #code --install-extension fivethree.vscode-ionic-snippets
