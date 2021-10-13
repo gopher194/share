@@ -31,3 +31,13 @@ They help a lot to code, manage repo, interact with Azure, develop PowerShell an
    Once downloaded, double-click on it, it opens the Font display windows, Font name being "Fira Mono". Click on "Install".
 
    I also added the TTF file in this directory.
+
+## Synchronize Settings
+
+Apparently, Settings synchronization got out of preview recently.
+
+So, I activated it with my GitHub account (didn't go through with my Microsoft Account).
+
+It means the settings and extensions installed in 1st section should now be the same on all my machines.
+
+more information here: <https://code.visualstudio.com/docs/editor/settings-sync>
